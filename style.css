@@ -1,7 +1,10 @@
 
 body {
-    background-color: rgb(145, 152, 133);
+    .background-color: rgb(145, 152, 133);
   }
   h1 {
-    color: rgba(0, 0, 255, 0.386);
+    .color: rgba(0, 0, 255, 0.386);
   }
+.heading {
+  color: crimson;
+}
